@@ -40,4 +40,4 @@ banking mobile application. One of the common security issue these APIs need to 
 
 * [Plaid](https://plaid.com/) access to North American banks
 * [True Layer](https://truelayer.com/) 
-* [teller.io](https://teller.io/) - alpha state - enables your applications to connect with all of your users' bank accounts across institutions, providing one easy to use API to move money, make payments, view transactions.
+* [Teller](https://teller.io/) - enables your applications to connect with all of your users' bank accounts across institutions, providing one easy to use API to move money, make payments, view transactions.
