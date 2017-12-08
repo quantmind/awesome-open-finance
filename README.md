@@ -1,5 +1,5 @@
 
-# Open Finance [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Open Finance & Open Banking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of open finance and open banking resources
 
@@ -21,14 +21,14 @@ A curated list of open finance and open banking resources
 ## Financial Data
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
-* [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources
-via their website, API, or directly into dozens of tools
+* [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
 
 
 ## Specifications
 
 * [OBP-API](https://github.com/OpenBankProject/OBP-API) the Open Bank Project is an
 open source RESTful API platform for banks that supports accounts, transactions, counterparties, transfers and more.
+* [Open Banking UK](https://www.openbanking.org.uk/) sets software standards and industry guidelines for implementing open banking APIs and applications. Relevant for UK banks.
 
 ## Banks Open APIs
 
