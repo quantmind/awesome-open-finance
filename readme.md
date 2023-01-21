@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+* [AltAPI](http://altapi.tech/) provides a suite of Alternative Data endpoints such as Insider Trades, Analysts' Ratings, ESG Scores and much more, all of which can be used in financial analysis and research
 
 
 ## Specifications
