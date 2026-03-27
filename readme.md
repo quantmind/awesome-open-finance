@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+* [EDINET DB](https://edinetdb.com/) is a free API for structured Japanese company financials, normalizing EDINET XBRL across JP-GAAP/IFRS/US-GAAP for 3,800+ listed companies with screening, annual report text, and MCP server support
 
 
 ## Specifications
