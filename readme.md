@@ -51,6 +51,8 @@ For a comprehansive list of banks with semi-baked apis check [Open banking APIs]
 * [GoCardless](https://gocardless.com/direct-debit-api/) direct debit API
 * [TransferWise](https://transferwise.com/payouts/) payouts API
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents making x402 micropayments on Solana. Verify agent wallet identity before payments via the free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Third Party Banking APIs
 
 Third party APIs provides an easy way to access certain bank endpoints by reverse engineering
