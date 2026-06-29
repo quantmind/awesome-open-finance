@@ -25,6 +25,7 @@ A curated list of open finance and open banking resources.
 
 ## Financial Data
 
+* [Adanos](https://adanos.org/) provides market sentiment data for stocks and crypto using social discussion, financial news, and prediction-market signals
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
 
