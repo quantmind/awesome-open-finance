@@ -57,6 +57,7 @@ Third party APIs provides an easy way to access certain bank endpoints by revers
 banking mobile application. One of the common security issue these APIs need to deal with is [certificate pinning](https://media.blackhat.com/bh-us-12/Turbo/Diquet/BH_US_12_Diqut_Osborne_Mobile_Certificate_Pinning_Slides.pdf).
 
 * [Plaid](https://plaid.com/) access to North American banks
+* [open-banking.io](https://open-banking.io) - PSD2 account aggregation for developers, no eIDAS certificate required, EU/UK bank coverage.
 * [True Layer](https://truelayer.com/) build financial apps that connect to bank data, verify accounts, and access transactions in real-time
 * [Teller](https://teller.io/) - enables your applications to connect with all of your users' bank accounts across institutions, providing one easy to use API to move money, make payments, view transactions.
 
