@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+* [BDE Score](https://github.com/hbhqq9/bde-score) – Open-source multi-factor stock scoring API (0-100 composite). Covers 74 stocks across US, HK, and A-Share markets.
 
 
 ## Specifications
