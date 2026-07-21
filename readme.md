@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+* [AgentServices](https://github.com/vbkotecha/aiservices-api) - Crypto market data and FX APIs with x402 on-chain payments (USDC on Base). 54 services, 97 endpoints, MCP server with 37 tools for AI agents.
 
 
 ## Specifications
@@ -50,6 +51,7 @@ For a comprehansive list of banks with semi-baked apis check [Open banking APIs]
 
 * [GoCardless](https://gocardless.com/direct-debit-api/) direct debit API
 * [TransferWise](https://transferwise.com/payouts/) payouts API
+* [x402 Protocol](https://github.com/vbkotecha/aiservices-api) - HTTP 402-based payment protocol for machine-to-machine API payments using stablecoins
 
 ## Third Party Banking APIs
 
