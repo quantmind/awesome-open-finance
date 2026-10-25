@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 
 ## Specifications
