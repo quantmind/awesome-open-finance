@@ -27,6 +27,7 @@ A curated list of open finance and open banking resources.
 
 * [EODData](http://eoddata.com/default.aspx) is a database of end of day historical data at an affordable price
 * [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources via their website, API, or directly into dozens of tools
+- [Level Open Finance & SMB Benchmarks](https://levelcfo.com/benchmarks/) - Open industry operating margin, working-capital (DSO/DPO/CCC), and software-stack datasets across US commercial trades, ecommerce, hospitality, healthcare, and staffing ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 
 ## Specifications
